@@ -1,0 +1,6 @@
+module Pods_NaishaGold_NaishaGoldTests {
+  umbrella header "Pods-NaishaGold-NaishaGoldTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

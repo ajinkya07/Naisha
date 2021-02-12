@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NaishaGold.iml" filepath="$PROJECT_DIR$/.idea/modules/NaishaGold.iml" group="NaishaGold" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="NaishaGold/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-807250883/react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-807250883/react-native-community_async-storage.iml" group="NaishaGold/react-native-community_async-storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1336654224/react-native-community_checkbox.iml" filepath="$PROJECT_DIR$/.idea/modules/1336654224/react-native-community_checkbox.iml" group="NaishaGold/react-native-community_checkbox" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-138450135/react-native-community_clipboard.iml" filepath="$PROJECT_DIR$/.idea/modules/-138450135/react-native-community_clipboard.iml" group="NaishaGold/react-native-community_clipboard" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1259187670/react-native-community_datetimepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/1259187670/react-native-community_datetimepicker.iml" group="NaishaGold/react-native-community_datetimepicker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1463918202/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1463918202/react-native-community_masked-view.iml" group="NaishaGold/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/425647728/react-native-community_toolbar-android.iml" filepath="$PROJECT_DIR$/.idea/modules/425647728/react-native-community_toolbar-android.iml" group="NaishaGold/react-native-community_toolbar-android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1126732749/react-native-fast-image.iml" filepath="$PROJECT_DIR$/.idea/modules/-1126732749/react-native-fast-image.iml" group="NaishaGold/react-native-fast-image" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1195481664/react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-1195481664/react-native-firebase_app.iml" group="NaishaGold/react-native-firebase_app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/813720675/react-native-firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/813720675/react-native-firebase_messaging.iml" group="NaishaGold/react-native-firebase_messaging" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2483299/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-2483299/react-native-gesture-handler.iml" group="NaishaGold/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-471058160/react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-471058160/react-native-image-crop-picker.iml" group="NaishaGold/react-native-image-crop-picker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1564621781/react-native-push-notification.iml" filepath="$PROJECT_DIR$/.idea/modules/1564621781/react-native-push-notification.iml" group="NaishaGold/react-native-push-notification" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/482669663/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/482669663/react-native-reanimated.iml" group="NaishaGold/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1735081786/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1735081786/react-native-safe-area-context.iml" group="NaishaGold/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1117732958/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1117732958/react-native-screens.iml" group="NaishaGold/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-27288458/react-native-share.iml" filepath="$PROJECT_DIR$/.idea/modules/-27288458/react-native-share.iml" group="NaishaGold/react-native-share" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/618369321/react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/618369321/react-native-splash-screen.iml" group="NaishaGold/react-native-splash-screen" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1613633191/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-1613633191/react-native-vector-icons.iml" group="NaishaGold/react-native-vector-icons" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/376675536/react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/376675536/react-native-webview.iml" group="NaishaGold/react-native-webview" />
+    </modules>
+  </component>
+</project>
